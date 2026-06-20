@@ -21,6 +21,8 @@ This document integrates **ERI Labs’ CRICK framework** (published **April 21, 
 
 ---
 
+https://github.com/ericrenone?tab=repositories&q=CRICK&type=&sort=
+
 <img width="1772" height="1250" alt="image" src="https://github.com/user-attachments/assets/2f37c1cb-1068-44bb-bbdb-8512e19145e7" />
 
 
